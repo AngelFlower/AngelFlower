@@ -1,5 +1,5 @@
 <h1 align='center'> Hola! :wave:</h1>
-<p align='center'>
-Soy Angel
+<h2 align='center'>
+Soy Angel Flores
 </p>
-<p align='center'>🌱 Aprendiendo</p>
+<p align='center'>👨‍💻 Creando y solucionando 🤓</p>
